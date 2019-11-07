@@ -3,6 +3,8 @@ vtop
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/MrRio/vtop.svg)](https://greenkeeper.io/) [![Build Status](https://travis-ci.org/MrRio/vtop.svg?branch=master)](https://travis-ci.org/MrRio/vtop)
 
+Updated version of vtop. We have solved many issues of existing open source tool vtop. Semester Project for the course Operating Systems at IIT Gandhinagar.
+
 A graphical activity monitor for the command line.
 
 ![](https://raw.githubusercontent.com/MrRio/vtop/master/docs/example.gif)
