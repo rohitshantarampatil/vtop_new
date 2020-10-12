@@ -1,4 +1,4 @@
-p class="has-line-data" data-line-start="0" data-line-end="1">These are the changes made to the Vtop.</p>
+These are the changes made to the Vtop.
 <pre><code>• Solved the problem of vtop crashing afterlong time running.
 • Added display warning and the corresponding theme for high CPU and memory usage.
 • Added features of displaying process tree, PID, user, heap, and stack memory of processes.
