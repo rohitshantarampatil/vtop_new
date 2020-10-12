@@ -8,6 +8,9 @@ memory of processes.
 
 These contribution was done as Operation Systems Project at IIT Gandhinagar by the following students:
 Rohit Patil
+
 Harshil Jain
+
 Anubhav Jain
+
 Abhisht tiwari.
